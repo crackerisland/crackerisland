@@ -1,3 +1,3 @@
-leaving this account empty little while 
+projectmoon iwc and forsaken dni plz yes ive played all titles from projectmoon
 
-i might think about it later
+cracker island is one of my favorite album by the way
