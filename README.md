@@ -1,3 +1,3 @@
 projectmoon iwc and forsaken dni plz yes ive played all titles from projectmoon
 
-cracker island is one of my favorite album by the way
+cracker island is one of my favorite gorillaz album by the way
