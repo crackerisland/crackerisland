@@ -1,6 +1,6 @@
-projectmoon iwc and forsaken dni plz yes ive played all titles from projectmoon
-
-cracker island is one of my favorite gorillaz album by the way
+<div align="center">
+  cracker island is one of my favorite gorillaz album by the way
+</div>
 
 <div align="center">
   all i can sort out i might want to add more
@@ -14,6 +14,10 @@ cracker island is one of my favorite gorillaz album by the way
   <details>
     <summary>games/titles ive played:</summary>
     - ULTRAKILL, Mewgenics, Grand Theft Auto V, Rain World, Little Big Planet 3, Just Cause 3, Lobotomy Corporation, Library of Ruina, Limbus Company, Touhou Kinjoukyou ~ Fossilized Wonders (this is the only touhou series i play), Assassin's Creed Brotherhood, Psychopomp GOLD, DRIVECLUB™
+  </details>
+  <details>
+    <summary>i ppreciate them:</summary>
+    - Ryōshū (Limbus Company), Shiomi Yoru (Limbus Company), Jeanne (Limbus Company), Olivier (Library of Ruina), 2-D/Stuart (Gorillaz), Cyborg Noodle (Gorillaz), Rico Rodriguez (Just Cause series), Salvador Mendoza (Just Cause series)
   </details>
 </div>
 <!-- i type it in accurately incase of a case sensitivity -->
