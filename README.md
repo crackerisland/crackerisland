@@ -9,7 +9,7 @@ cracker island is one of my favorite gorillaz album by the way
 <div align="center">
   <details>
     <summary>extended interest/what i like the most:</summary>
-    - Gorillaz, ULTRAKILL, Unstable Universe/SMP, Bliss SMP, Mewgenics, The Beatles, MF DOOM, Morcheeba, Ninajirachi, QSMP, Interlude SMP (ManePear's scripted server), Inanimate Insanity, BFDI/BFDIA/TPOT (i dont support on the current ongoing controversy), Oasis, De La Soul, Sheila On 7, ProjectMoon
+    - Gorillaz, ULTRAKILL, Unstable Universe/SMP, Bliss SMP, Mewgenics, The Beatles, MF DOOM, Morcheeba, Ninajirachi, QSMP, Interlude SMP (ManePear's scripted server), Inanimate Insanity, BFDI/BFDIA/TPOT (i dont support on the current ongoing controversy), Oasis, De La Soul, Sheila On 7, ProjectMoon, Mili
   </details>
   <details>
     <summary>games/titles ive played:</summary>
