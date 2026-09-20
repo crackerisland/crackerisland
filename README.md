@@ -13,7 +13,7 @@
   </details>
   <details>
     <summary>games/titles ive played:</summary>
-    - ULTRAKILL, Mewgenics, Grand Theft Auto V, Rain World, Little Big Planet 3, Just Cause 3, Lobotomy Corporation, Library of Ruina, Limbus Company, Touhou Kinjoukyou ~ Fossilized Wonders (this is the only touhou series i play), Assassin's Creed Brotherhood, Psychopomp GOLD, DRIVECLUB™
+    - ULTRAKILL, Mewgenics, Grand Theft Auto V (Story), Rain World, Little Big Planet 3, Just Cause 3, Lobotomy Corporation, Library of Ruina, Limbus Company, Touhou Kinjoukyou ~ Fossilized Wonders (this is the only touhou series i play), Assassin's Creed Brotherhood, Assassin's Creed Shadows, Assassin's Creed Black Flag Resync, Assassin's Creed Mirage, Fallout: New Vegas, Forza Horizon 6, Psychopomp GOLD, DRIVECLUB™
   </details>
 </div>
 <!-- yes, i type it in accurately incase of a case sensitivity -->
