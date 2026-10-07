@@ -1,11 +1,12 @@
-<div align="center">
-  cracker island is one of my favorite gorillaz album by the way
-</div>
+i win the award of beating it before the nerf
 
-<div align="center">
-  all i can sort out i might want to add more
-</div>
+<picture>
+  <img width="505" height="606" src="https://github.com/user-attachments/assets/7f460152-2fbe-4b41-9cbe-3f6be4b62be2" />
+</picture>
+
+<!-- cut off parts
 <!-- really long one here -->
+<!-- (1)
 <div align="center">
   <details>
     <summary>extended interest/what i like the most:</summary>
